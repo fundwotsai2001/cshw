@@ -1,0 +1,12 @@
+.personal-name1 {
+    color: rgb(255,0, 0);
+}
+.personal-name2 {
+    margin-left: 100px;
+}
+.profile {
+    background-color: rosybrown;
+}
+.highschool :hover {
+    color: red;
+}
